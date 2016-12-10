@@ -1,14 +1,13 @@
 {
-  "name": "meanjs",
-  "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js.",
-  "version": "0.5.0",
+  "name": "lutz-fam",
+  "description": "The lutz-fam server",
+  "version": "1.0.0",
   "meanjs-version": "0.5.0",
   "private": false,
-  "author": "https://github.com/meanjs/mean/graphs/contributors",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/meanjs/mean.git"
+    "url": "https://github.com/ssl37/lutz-fam.git"
   },
   "engines": {
     "node": ">=4.6.0",
